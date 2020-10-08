@@ -1,0 +1,133 @@
+ 
+ body{
+     background-image: url("https://images.pexels.com/photos/733857/pexels-photo-733857.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"  )
+     ;background-repeat: no-repeat;
+    
+     background-size: cover;
+     height: 100%;
+     
+
+ }
+ 
+ ul  {
+    padding: 43px;
+    display: flex;
+    float:right;
+    list-style-type: none;
+    color: black;
+    size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-left: 447px;
+    
+}
+/* input:required {border : 2px solid red ; }
+	input:optional {border : 1px solid black ; }
+	input:valid {color : green ; }
+	input:invalid {color : red ;} */
+.title{display: flex;
+    justify-content: flex-end;}
+img{
+    border-radius: 50px;
+    height: 80px;
+    width: 187px;
+}
+.link-promotion{
+   color: chocolate;
+   margin-left: 800px; 
+  
+}
+.inscription button{
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+.inscription{
+    display: flex;
+    float: right;
+}
+a button{ margin-top: 200px;
+    width: 231px;
+    height: 79px;}
+.promotion{
+    text-align: center;
+}
+h1{ font-family: 'Amatic SC', cursive;
+    text-align: center;
+    color: #A04000;
+    margin-left: 38px;
+}
+.acceuil-title{
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    color: #A04000;
+    margin-left: 38px;
+}
+q{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.titre{display: flex;
+    margin-bottom: 70px;}
+.back{
+    font-size: 50px;
+    width: 500px;
+    color: black;
+    margin-left: 255px;
+}
+.title-inscription{
+    display: flex;
+
+}
+.inscrit{font-size: 100px;}
+.club{
+    border-radius: 50px;
+width: 200px;
+height: 154px;
+    margin-left: 42px;
+}
+.albums{display: flex;
+     justify-content: center;
+      align-items: center;
+      margin-top: 91px;
+      justify-content: flex-end;
+    }
+p{
+   
+    font-family: 'Amatic SC', cursive;
+    color: #E59866;
+   
+    font-size: 25px;
+}
+ul li a{
+    margin-left: 68px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+ul li a:hover{
+    box-shadow: 0px 20px 15px #aaaaaa;}
+
+ul li a:hover {
+color: #E59866;
+}
+td{border: solid #707975 1px;
+    font-weight: bold;
+    line-height: 35px;}
+    input{
+        border-radius: 5px;
+        height: 26px;
+    }
+
+form{
+        margin-top: 50px;
+        margin-left: 601px;
+    }
+    h2{
+        font-family: 'Indie Flower', cursive;
+        text-align: center;
+        margin-top: 50px;
+        margin-left: 302px;
+
+    }
